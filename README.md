@@ -6,4 +6,4 @@
 - James
 - Francis
 
-This is a merge file conflict
+This is a merge file conflict example
